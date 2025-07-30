@@ -13,10 +13,10 @@
 
 - 🎓 Estudiante de Ingeniería en Desarrollo de Software
 - 💻 Experiencia en **PHP, JavaScript, TypeScript y C#**
-- 🚀 En proceso de aprendizaje de **Business Intelligence (BI)**
-- 🔧 Actualmente trabajando en un **Sistema de Reservaciones con ASP.NET y C#**
-- 📚 Creando un **tutorial paso a paso** de un sistema para restaurante con **Laravel/Node.js y React/Vue**
-
+      Sistemas operativos, Redes, entre otros
+- 🚀 En proceso de aprendizaje de **Creacion de Sistema**
+- 🔧 Actualmente trabajando en un sistema de camaras de red estaticas
+- 📚 Estudiante Universitario
 ---
 
 ## 🚀 Tecnologías y herramientas
